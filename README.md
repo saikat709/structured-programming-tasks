@@ -1,6 +1,10 @@
 # # Structured Programming Tasks
 
+Using Raw C language.
+
 Contents:
+
+```bash
 .
 ├── lab_assignment_1_tictactoe
 ├── lab_assignment_string_operations
@@ -14,3 +18,4 @@ Contents:
 └── simple-typing-game
 
 10 directories, 1 file
+```
